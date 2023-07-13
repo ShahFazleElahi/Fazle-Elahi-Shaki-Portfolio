@@ -1,0 +1,18 @@
+
+*{
+    font-family: 'Belanosima', sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color:rgba(29, 11, 11, 0.493); 
+    
+}
+.header{
+    background-color: yellow;
+}
+
+
+
+
